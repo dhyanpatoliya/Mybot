@@ -4,7 +4,7 @@
     "description": "playing Music for you",
     "main": "bot.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+    node ./scr/bot.js
     },
     "keywords": [],
     "author": "Dhyan",
