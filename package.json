@@ -1,0 +1,18 @@
+{
+    "name": "Music bot",
+    "version": "1.0.0",
+    "description": "playing Music for you",
+    "main": "bot.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Dhyan",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.4.1",
+        "dotenv": "^8.2.0",
+        "git": "^0.1.5",
+        "nodemon": "^2.0.6"
+    }
+}
